@@ -1,0 +1,17 @@
+{
+  "name": "BRMS-Quicklinks",
+  "productName": "BRMS-Quicklinks",
+  "version": "1.0.0",
+  "description": "Electron application based on React to quickly link users to relevant tools",
+  "main": "./main.prod.js",
+  "author": {
+    "name": "UW SMPH BRMS IT",
+    "email": "it@brms.wisc.edu"
+  },
+  "scripts": {
+    "electron-rebuild": "node -r ../internals/scripts/BabelRegister.js ../internals/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
