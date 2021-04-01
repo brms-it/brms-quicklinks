@@ -91,11 +91,15 @@ export default function Home() {
             />
             <WebLink
               label="Overcrowded Cage Reporting"
-              url="https://ocr-test.brms.wisc.edu"
+              url="https://ocr.brms.wisc.edu"
             />
             <WebLink
               label="Resource Scheduler"
               url="https://brms.wisc.edu/about/facilities/resource-scheduler/"
+            />
+            <WebLink
+              label="Protocol Special Considerations"
+              url="https://ahw.wisc.edu/special-considerations"
             />
             <div style={styles.sectionSpacer} />
             <Label text="Admin" />
