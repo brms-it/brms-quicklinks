@@ -108,10 +108,6 @@ export default function Home() {
               label="Timesheet"
               url="https://www.hrs.wisconsin.edu/psc/hrs-fd/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_AGSTARTPAGE_NUI.GBL?CONTEXTIDPARAMS=TEMPLATE_ID:PTPPNAVCOL&scname=HC_TIME&AJAXTransfer=Y&PanelCollapsible=Y&PTPPB_GROUPLET_ID=TL_TIME_ESS&CRefName=HC_NAVCOLL_7"
             />
-            <WebLink
-              label="IT Help Requests"
-              url="http://todo.brms.wisc.edu/support/#/tickets/new"
-            />
           </Grid>
         </Paper>
       </Grid>
