@@ -104,6 +104,7 @@ export default function Home() {
             <div style={styles.sectionSpacer} />
             <Label text="Admin" />
             <WebLink label="BRMS Home" url="https://brms.wisc.edu" />
+            <WebLink label="SDS" url="https://brms.wisc.edu/safety-data-sheets/" />
             <WebLink
               label="Timesheet"
               url="https://www.hrs.wisconsin.edu/psc/hrs-fd/EMPLOYEE/HRMS/c/NUI_FRAMEWORK.PT_AGSTARTPAGE_NUI.GBL?CONTEXTIDPARAMS=TEMPLATE_ID:PTPPNAVCOL&scname=HC_TIME&AJAXTransfer=Y&PanelCollapsible=Y&PTPPB_GROUPLET_ID=TL_TIME_ESS&CRefName=HC_NAVCOLL_7"

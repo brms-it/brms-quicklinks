@@ -10,7 +10,7 @@
    height: 100vh;
    background-color: #dadfe1;
    font-family: Arial, Helvetica, Helvetica Neue, serif;
-   overflow-y: hidden;
+   overflow-y: scroll;
  }
  
  /* h2 {
