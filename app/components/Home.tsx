@@ -94,12 +94,12 @@ export default function Home() {
               url="https://ocr.brms.wisc.edu"
             />
             <WebLink
-              label="Resource Scheduler"
-              url="https://brms.wisc.edu/about/facilities/resource-scheduler/"
+              label="AHW Tools"
+              url="https://ahw.wisc.edu"
             />
             <WebLink
-              label="Protocol Special Considerations"
-              url="https://ahw.wisc.edu/special-considerations"
+              label="Resource Scheduler"
+              url="https://brms.wisc.edu/about/facilities/resource-scheduler/"
             />
             <div style={styles.sectionSpacer} />
             <Label text="Admin" />
